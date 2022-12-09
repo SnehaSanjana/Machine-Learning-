@@ -1,5 +1,6 @@
 # Machine-Learning-
 This repository has all my Mini Projects based on Machine Learning which includes:
+
 1)Restaurent Review:        I am dealing with the Restaurant reviews dataset. In this Dataset,
                             There are two columns namely, Review and Liked. The review column has all the reviews given by the customer. And in Liked column it can be either 0 or 1. 1 indicates positive review and 0 indicates negative review.
                             And built a machine learning model using both Support Vector Classifier(SVC) and Count Vectorizer methods and finally, this model is going to predict whether the given review is either positive or negative.
